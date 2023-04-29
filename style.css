@@ -1,0 +1,65 @@
+body {
+	font-family: 'Baloo Bhai',cursive;
+	margin: 0;
+	padding: 0;
+	background-color:yellowgreen;
+	color: #333;
+}
+.vinay{
+  display:flex;
+  justify-content: center;
+  border-color: yellow;
+  cursor:pointer;
+  
+  
+  
+}
+
+header {
+	background-color: #333;
+	color: #fff;
+	padding: 20px;
+	text-align: center;
+}
+
+h1 {
+	margin: 0;
+}
+
+main {
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+section {
+	margin: 40px 0;
+}
+
+h2 {
+	font-size: 24px;
+}
+
+ul {
+	list-style-type: disc;
+	margin-left: 20px;
+}
+
+blockquote {
+	font-style: italic;
+	margin: 20px 0;
+	padding: 20px;
+	border-left: 5px solid #333;
+	background-color: #f9f9f9;
+}
+
+footer {
+	background-color: #333;
+	color: #fff;
+	padding: 10px;
+	text-align: center;
+}
+
+p {
+	margin: 0;
+}
